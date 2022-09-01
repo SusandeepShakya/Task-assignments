@@ -1,0 +1,43 @@
+* {
+box-sizing: border-box;  
+}
+
+.App {
+  text-align: start;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: grid;
+  grid-column: 2;
+  padding: 50px;
+  flex-direction: row;
+  align-items: start;
+  font-size:20px;
+  color: white;
+}
+
+.taskTwo{
+  
+}
+
+.App-header > h2 {
+  margin: 0px;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,12 @@
+Answer For Question 6
+
+If the both function are executed the output from the first function will be hello and the output from the second output will be undefined.
+
+Answer For Question 7
+
+The output of the executed loop will be 3 when any button is clicked
+
+Answer For question 9
+SSR (server-side rendering) is the process where the web-page is pre-rendered on the servers side and is generated upon clients request. And when the pre-rendered page reaches the browser, JavaScript code is run to make the page interactive
+
+SSG (static site generation) is the process of building websites that render at build time. The output is an HTML file, assets such as JavaScript and CSS, and a few other static files.the page is pre-rendered at compile time. That means that the user won’t have to wait for the page to load at the browser; the page will simply be rendered.
